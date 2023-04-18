@@ -24,4 +24,4 @@ The objective of my analysis is to create a model that determines the accuracy o
 
 ![plot of MSE vs Predictors](https://github.com/n5hossai/Protein-Folding/blob/main/mse%20vs%20preds.PNG)
 
-![plot of RMSE values](https://github.com/n5hossai/Protein-Folding/blob/main/RMSE%20vals.PNG)
+![plot of RMSE values](https://github.com/jeedan10/Protein-Folding/blob/main/RMSE%20vals.PNG)
